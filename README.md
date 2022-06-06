@@ -1,1 +1,3 @@
 An assorted collection of useful files...
+
+Verify signed files using my GPG key: https://keys.openpgp.org/search?q=D8D9F703751FA58D0BD25331C6887A01D470251F
